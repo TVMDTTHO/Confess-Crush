@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Con Chó Oanh",
+    introTitle: 'con Oanh gâu gâu',
+    introDesc: `Trong các loài vật nuôi như con vịt con gà con lợn thì em thích nhất là con chó Oanh`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Tại sao em lại yêu anh 🥰',
+    desc: 'Tại sao em lại lấy anh ',
+    btnYes: 'Vì em yêu chim',
+    btnNo: 'Vì em ngu',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại??',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Vì anh Trường đẹp trai khoai to không lo chết đói',
+    mess: 'Ừ em nói đúng rồi đấy 🥰 😘😘',
+    messDesc: 'Tối nay 10h chịch nhau đến sáng nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/DangHoangThienTruog/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
